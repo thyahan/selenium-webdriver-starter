@@ -1,6 +1,6 @@
 # SELENIUM STARTER PACK
 
-This is selenium starter pack 
+This is Selenium starter pack 
 
 ### Installation
 
@@ -18,3 +18,8 @@ $ npm install
 $ npm test
 ```
 
+How to run Standalone Selenium Server
+```sh
+$ cd standalone
+$ java -jar selenium-server-standalone-3.5.3.jar
+```
